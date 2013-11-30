@@ -1,2 +1,2 @@
-emlog_home_static.go
+emlog_static.go
 ====================
