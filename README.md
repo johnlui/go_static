@@ -11,15 +11,14 @@ emlog_static.go
 
 ###使用方法###
 1. 两个文件单独编译，分别运行
-2. 
-3. emlog_static_homepage 首页静态化 使用方法为：    
+2. emlog_static_homepage 首页静态化 使用方法为：    
     
     
     ./emlog_static_homepage -url=http://example.com/index.php -t=30    
     
     t为间隔时间，单位是秒    
 
-4. emlog_static_articles 文章页静态化 使用方法为：    
+3. emlog_static_articles 文章页静态化 使用方法为：    
     
     
     ./emlog_static_articles -url=http://example.com/index.php -c=10 -n=100    
