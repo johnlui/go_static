@@ -1,7 +1,7 @@
 /*
 	Use:
-		go build emlog_static_homepage.go
-		./emlog_static_homepage -url=http://example.com/index.php -t=30
+		go build common_static_homepage.go
+		./common_static_homepage -url=http://example.com/index.php -t=30
 
 		//请将上面的example.com替换成你自己的网址，注意后面要加上index.php
 		//t的单位是秒，默认为一分钟
